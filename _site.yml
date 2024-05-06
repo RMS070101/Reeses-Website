@@ -1,4 +1,4 @@
-name: "shelon_website"
+ename: "shelon_website"
 title: "My Website"
 description: |
   My Website
@@ -12,7 +12,7 @@ navbar:
     - text: "Shiny App"
       href: shinyapp.html
     - text: "ggplot Extension"
-      href: ggplotExtensions.html
+      href: ggplotextensions.html
     - text: "Additional Visualizations"
       href: additionalVisualizations.html
     - text: "NFL Passing Data"
